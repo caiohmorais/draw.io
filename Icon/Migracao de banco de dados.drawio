@@ -46,8 +46,8 @@
         <mxCell id="_mN2utDwt0UoqiKS1aWL-11" edge="1" parent="1" source="_mN2utDwt0UoqiKS1aWL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_mN2utDwt0UoqiKS1aWL-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_mN2utDwt0UoqiKS1aWL-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Migração&lt;/h1&gt;&lt;p&gt;Devido a não ter um RDS Sybase, o correto é migrar a engine para SQL Server.&lt;/p&gt;&lt;p&gt;Assim podemos utilizar Mult-AZ (Para melhorar o tempo de DR, e assim ter uma redundancia em queda de uma Zona)&lt;/p&gt;" vertex="1">
-          <mxGeometry height="179" width="180" x="290.5" y="197" as="geometry" />
+        <mxCell id="_mN2utDwt0UoqiKS1aWL-9" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fillColor=#FFFFFF;strokeColor=#6c8ebf;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Migração&lt;/h1&gt;&lt;p&gt;Devido a não ter um RDS Sybase, o correto é migrar a engine para SQL Server.&lt;/p&gt;&lt;p&gt;Assim podemos utilizar Mult-AZ (Para melhorar o tempo de DR, e assim ter uma redundancia em possível queda de uma Zona. Assim garantindo a continuidade de negócio).&lt;/p&gt;" vertex="1">
+          <mxGeometry height="179" width="295" x="233" y="197" as="geometry" />
         </mxCell>
         <mxCell id="oQV5aEB9KyuiHKRzNVVA-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Plano de migração" vertex="1">
           <mxGeometry height="227" width="267" x="10" y="470" as="geometry">
