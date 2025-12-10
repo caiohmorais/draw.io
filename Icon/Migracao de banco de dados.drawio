@@ -57,6 +57,18 @@
         <mxCell id="oQV5aEB9KyuiHKRzNVVA-8" parent="oQV5aEB9KyuiHKRzNVVA-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;" value="&lt;ol&gt;&lt;li&gt;Claranet - Migrar dados&amp;nbsp;&lt;/li&gt;&lt;ol&gt;&lt;li&gt;Formato: BCP / DTS&lt;/li&gt;&lt;/ol&gt;&lt;li&gt;Banco Fibra - Irão recodificar o código para atender o negócio (Usar SSMA - Para identificar as alterações necessárias).&lt;/li&gt;&lt;/ol&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Obs.: A Claranet pode apoiar em qualquer atividade, mas será com auxilio e apoio do Banco Fibra.&lt;/div&gt;" vertex="1">
           <mxGeometry height="177" width="248" x="5" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="oQV5aEB9KyuiHKRzNVVA-9" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;html=1;" value="Informações importantes" vertex="1">
+          <mxGeometry height="162" width="227" x="550" y="404" as="geometry" />
+        </mxCell>
+        <mxCell id="oQV5aEB9KyuiHKRzNVVA-10" parent="oQV5aEB9KyuiHKRzNVVA-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Tempo estimado: ???" vertex="1">
+          <mxGeometry height="26" width="227" y="26" as="geometry" />
+        </mxCell>
+        <mxCell id="oQV5aEB9KyuiHKRzNVVA-11" parent="oQV5aEB9KyuiHKRzNVVA-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Atenção pós-migração: ???" vertex="1">
+          <mxGeometry height="26" width="227" y="52" as="geometry" />
+        </mxCell>
+        <mxCell id="oQV5aEB9KyuiHKRzNVVA-12" parent="oQV5aEB9KyuiHKRzNVVA-9" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" value="Mapeamento: O tempo ainda não conseguimos estimar, mas irá coletar conexões nos bancos para saber as aplicações amarradas." vertex="1">
+          <mxGeometry height="84" width="227" y="78" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
