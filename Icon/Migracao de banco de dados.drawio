@@ -36,12 +36,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="_mN2utDwt0UoqiKS1aWL-7" parent="1" style="swimlane;whiteSpace=wrap;html=1;" value="Aplicações" vertex="1">
-          <mxGeometry height="200" width="200" x="592" y="86" as="geometry">
+          <mxGeometry height="90" width="200" x="592" y="86" as="geometry">
             <mxRectangle height="26" width="93" x="592" y="86" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oQV5aEB9KyuiHKRzNVVA-1" parent="_mN2utDwt0UoqiKS1aWL-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;imageAlign=left;" value="Incialmente vamos migrar a &quot;PUXADINHO&quot;" vertex="1">
-          <mxGeometry height="160.5" width="194" x="2" y="34.5" as="geometry" />
+        <mxCell id="oQV5aEB9KyuiHKRzNVVA-1" parent="_mN2utDwt0UoqiKS1aWL-7" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=top;rounded=0;imageAlign=left;" value="Incialmente vamos migrar a BNPL" vertex="1">
+          <mxGeometry height="67.5" width="194" x="2" y="34.5" as="geometry" />
         </mxCell>
         <mxCell id="_mN2utDwt0UoqiKS1aWL-11" edge="1" parent="1" source="_mN2utDwt0UoqiKS1aWL-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="_mN2utDwt0UoqiKS1aWL-6">
           <mxGeometry relative="1" as="geometry" />
